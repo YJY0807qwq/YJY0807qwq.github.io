@@ -4,7 +4,7 @@
 
 
 >## 个人网址
->>* ink sans模拟器：<kbd><https://yulei233-ink.github.io/ink_sans_fight></kbd>
+>>* 困难sans模拟器：<kbd><https://yulei233-ink.github.io/hard_sans></kbd>
 >>* 春秋服务器官网：<kbd><https://yulei233-ink.github.io/chunqiu_server></kbd>
 >>* 个人主页（禁止套娃）：<kbd><https://yulei233-ink.github.io></kbd>
 
